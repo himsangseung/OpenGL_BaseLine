@@ -1,0 +1,6 @@
+Debug/*
+Release/*
+x64/*
+OpenGL/Debug/*
+OpenGL/x64/*
+.vs
